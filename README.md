@@ -8,6 +8,7 @@
 
 
 Languages and tools
+
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react&logoColor=097CDB)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logoColor=F8C52C)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
