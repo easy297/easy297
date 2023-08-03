@@ -1,9 +1,12 @@
-## Hello there 🤺
-
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
+
+
+<div align="center">
+	<img src="assets/garlicDog22.gif" alt="Hello. I'm Izim. I like code. Thanks for reading.">
+</div>
 
 
 ### Languages and tools
